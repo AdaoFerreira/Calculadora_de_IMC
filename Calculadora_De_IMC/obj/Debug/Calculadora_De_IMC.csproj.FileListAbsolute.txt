@@ -1,0 +1,8 @@
+C:\Users\Adão\source\apps\Calculadora_De_IMC\Calculadora_De_IMC\bin\Debug\Calculadora_De_IMC.exe.config
+C:\Users\Adão\source\apps\Calculadora_De_IMC\Calculadora_De_IMC\bin\Debug\Calculadora_De_IMC.exe
+C:\Users\Adão\source\apps\Calculadora_De_IMC\Calculadora_De_IMC\bin\Debug\Calculadora_De_IMC.pdb
+C:\Users\Adão\source\apps\Calculadora_De_IMC\Calculadora_De_IMC\obj\Debug\Calculadora_De_IMC.csproj.AssemblyReference.cache
+C:\Users\Adão\source\apps\Calculadora_De_IMC\Calculadora_De_IMC\obj\Debug\Calculadora_De_IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adão\source\apps\Calculadora_De_IMC\Calculadora_De_IMC\obj\Debug\Calculadora_De_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Adão\source\apps\Calculadora_De_IMC\Calculadora_De_IMC\obj\Debug\Calculadora_De_IMC.exe
+C:\Users\Adão\source\apps\Calculadora_De_IMC\Calculadora_De_IMC\obj\Debug\Calculadora_De_IMC.pdb
